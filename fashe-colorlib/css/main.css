@@ -1846,7 +1846,7 @@ li.sale-noti > a {
 /* ------------------------------------ */
 .block4:hover .block4-overlay {
   visibility: visible;
-  opacity: 1;
+  opacity: 60%;
 }
 
 .block4:hover .block4-overlay-txt {

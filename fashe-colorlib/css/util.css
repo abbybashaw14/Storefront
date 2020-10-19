@@ -3075,21 +3075,21 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .s-text9 {
 	font-family: Montserrat-Regular;
 	font-size: 13px;
-	color: #adadad;
+	color: white;
 	line-height: 1.8;
 }
 
 .s-text10 {
 	font-family: Montserrat-Regular;
 	font-size: 13px;
-	color: #cccccc;
+	color: white;
 	line-height: 1.8;
 }
 
 .s-text11 {
 	font-family: Montserrat-Italic;
 	font-size: 13px;
-	color: #888888;
+	color: white;
 	line-height: 1.8;
 }
 
@@ -3104,7 +3104,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .s-text13 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;
-	color: #888888;
+	color: white;
 	line-height: 1.8;
 }
 
