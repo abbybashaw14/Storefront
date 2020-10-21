@@ -680,7 +680,7 @@ li.sale-noti > a {
 
 .main_menu > li:hover > a {
   text-decoration: none;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #CBAF90;
 }
 
 .main_menu li {
@@ -699,7 +699,7 @@ li.sale-noti > a {
   top:0;
   left:100%;
   width: 225px;
-  background-color: #222222;
+  background-color: white;
   opacity: 0;
   visibility: hidden;
   padding-top: 10px;
@@ -732,11 +732,11 @@ li.sale-noti > a {
   padding: 10px;
   font-family: Montserrat-Regular;
   font-size: 13px;
-  color: white;
+  color: #944D3B;
 }
 
 .sub_menu > li:hover > a {
-  color: #e65540;
+  color: #944D3B;
   text-decoration: none;
 }
 
@@ -1056,7 +1056,7 @@ li.sale-noti > a {
 .side-menu .main-menu {margin-bottom: 0;}
 
 .item-menu-mobile {
-  background-color: #e65540;
+  background-color: #CBAF90;
 }
 
 .side-menu .main-menu > li > a {
