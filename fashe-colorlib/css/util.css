@@ -3047,7 +3047,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .s-text5 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;
-	color: #999999;
+	color: white;
 	line-height: 1;
 }
 
@@ -3061,7 +3061,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .s-text7 {
 	font-family: Montserrat-Regular;
 	font-size: 13px;
-	color: #555555;
+	color: white;
 	line-height: 1.8;
 }
 
@@ -3249,7 +3249,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .m-text10 {
 	font-family: Montserrat-Regular;
 	font-size: 18px;
-	color: #555555;
+	color: white;
 	line-height: 1;
 }
 
@@ -3381,7 +3381,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 .l-text1 {
 	font-family: Montserrat-Bold;
 	font-size: 50px;
-	color: white;
+	color: #944D3B;
 	line-height: 1.2;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -3431,7 +3431,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 */
 .colorwhite {color: #fff;}
 .color0 {color: #e65540;}
-.color1 {color: #888888;}
+.color1 {color: white;}
 .color2 {color: #333333;}
 
 
@@ -3714,8 +3714,8 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 .bg1 {background-color: #222222;}
 .bg3 {background-color: rgba(255,255,255,0.95);}
 .bg4 {background-color: #111111;}
-.bg5 {background-color: #f2f2f2;}
-.bg6 {background-color: #f0f0f0;}
+.bg5 {background-color: #CBAF90;}
+.bg6 {background-color: #CBAF90;}
 .bg7 {background-color: #333333;}
 .bg8 {background-color: #e6e6e6;}
 
@@ -3970,8 +3970,8 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 }
 
 .hov2:hover {
-	color: white;
-	text-decoration: underline;
+	color: #944D3B;
+	text-decoration: none;
 }
 
 .hov3:hover {
